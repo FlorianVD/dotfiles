@@ -1,0 +1,10 @@
+[user]
+	email = florian@stampix.com
+	name = florianvd
+[core]
+	autocrlf = input
+	editor = nvim
+[pull]
+	rebase = false
+[init]
+	defaultBranch = main
